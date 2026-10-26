@@ -2,7 +2,6 @@
 # install using: pip install -r requirements.txt
 
 # requirements
-kagglehub
 ipykernel
 pathlib
 pandas
@@ -13,3 +12,5 @@ transformers
 accelerate 
 datasets
 numpy
+seaborn
+convokit
